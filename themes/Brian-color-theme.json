@@ -1,0 +1,15 @@
+{
+	"tokenColors": "./Brian.tmTheme",
+	"colors": {
+		"editor.background": "#282A30",
+		"editorCursor.foreground": "#00F2FF",
+		"editor.foreground": "#F0EDED",
+		"editorWhitespace.foreground": "#A3A3A3",
+		"editor.lineHighlightBackground": "#464952",
+		"editor.selectionBackground": "#616161",
+		"statusBar.foreground": "#a3a3a3",
+		"statusBar.background": "#3f4044",
+		"statusBarItem.hoverBackground": "#3f4044",
+	},
+	"name": "Brian"
+}

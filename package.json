@@ -1,0 +1,21 @@
+{
+    "name": "vscode-theme-brian",
+    "displayName": "Brian",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.41.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Brian",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Brian-color-theme.json"
+            }
+        ]
+    }
+}
